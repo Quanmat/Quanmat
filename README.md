@@ -2,7 +2,7 @@
 - 👀 Huge fan of cybersecurity and quantum computing.
 - 🌱 Currently diving deep into these fields, always eager to learn more.
 - 😄 Pronouns: He/Him
-- ✨ #Ethical H**king , #CybersecCTFs
+- ✨ **#Ethical H******king** , **#CybersecCTFs**
 
 <!---
 Quanmat/Quanmat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
