@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Krishay Rathaure
+- 👋 Hi, I’m Krishay Rathaure!
 - 👀 Huge fan of cybersecurity and quantum computing.
 - 🌱 Currently diving deep into these fields, always eager to learn more.
 - 😄 Pronouns: He/Him
