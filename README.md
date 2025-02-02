@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Krishay Rathaure!
-- 👀 Huge fan of cybersecurity and quantum computing.
-- 🌱 Currently diving deep into these fields, always eager to learn more.
+- 👀 Huge fan of cybersecurity.
 - 😄 Pronouns: He/Him
 - ✨ **#Ethical H******king** , **#CybersecCTFs**
 
