@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Krishay Rathaure!
-- 👀 Huge fan of BioTech and cybersecurity.
+- 👋 Hey there! I’m Krishay Rathaure!
+- 👀 Huge fan of BioTech 🔬 and cybersecurity 🛡️
+- 🚀 Passionate about building in the open — love contributing to open source
 - 😄 Pronouns: He/Him
-- ✨ **#TechnoBio** **#Open_Source** **#Ethical H******king**
+- ✨ **#TechnoBio** | **#Open_Source** | **#Ethical H******king**
 
 <!---
 Quanmat/Quanmat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
