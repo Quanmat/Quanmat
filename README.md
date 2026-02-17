@@ -1,5 +1,5 @@
 - 👋 Hey there! I’m Krishay Rathaure!
-- 👀 Huge fan of Tech 🔬 and cybersecurity 🛡️
+- 👀 Curious about how things work under the hood
 - 🚀 Passionate about building in the open — love contributing to open source
 - 😄 Pronouns: He/Him
 - ✨ **#Open_Source** | **#Ethical H******king** | **#DevOps**
